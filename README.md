@@ -1,5 +1,6 @@
 # Res-GCNN
 residual graph cnn for trajectory prediction, used in autonomous vehicles
+
 	          ETH 	     HOTEL	UNIV	   ZARA1      ZARA2	 AVG
 Social-STGCNN	  0.36/0.63  0.64/1.11	0.37/0.66  0.49/0.85  0.37/0.65  0.44/0.79	
 0.36/0.63
