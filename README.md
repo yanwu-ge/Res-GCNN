@@ -25,4 +25,24 @@ The positions are observed every 0.4 second. The same as our superior counterpar
 |Meituan|**0.39 / 0.79**	|0.51 / 1.05	|**0.25 / 0.56**	|0.30 / 0.61	|0.36 / 0.73	|**0.36** / 0.75|
 |**Res-GCNN**|0.65 / 1.12	|0.31 / **0.50**	|0.38 / 0.72	|**0.28 / 0.50**	|**0.24 / 0.41**	|0.37 / **0.65**|
 
-## [参考链接](https://blog.csdn.net/u012234115/article/details/41778701 "悬停显示")
+## Results of Typical Patterns
+### Parallel walking
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_1.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_2.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_3.png)
+
+### Collision avoidance
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_1.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_2.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_3.png)
+
+### Failure scenes
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_1.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_2.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_3.png)
+
+### Complex scenarios
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_1.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_2.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_3.png)
+
