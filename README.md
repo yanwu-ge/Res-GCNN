@@ -4,6 +4,7 @@ The Res-GCNN models the interactive behaviors of pedestrians by using the adjace
 
 ## Model Architecture
 The proposed Res-GCNN contains two components, FECNN and TPCNN. FECNN plays the role of extracting spatio-temporal inter-action feature, while TPCNN is designed to forecast the future trajectories. The Res-GCNN is composed of several FECNN layers and several TPCNN layers.<br>
+
 ![image](https://github.com/yanwu-ge/Res-GCNN/blob/main/images/model_architecture.png)
 
 ## The ADE / FDE metrics of Res-GCNN compared with other methods
