@@ -27,22 +27,22 @@ The positions are observed every 0.4 second. The same as our superior counterpar
 
 ## Results of Typical Patterns
 ### Parallel walking
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_1.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_2.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_3.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_1.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_2.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Parallel_walking_3.png)<br>
 
 ### Collision avoidance
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_1.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_2.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_3.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_1.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_2.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Collision_avoidance_3.png)<br>
 
 ### Failure scenes
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_1.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_2.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_3.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_1.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_2.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Failures_3.png)<br>
 
 ### Complex scenarios
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_1.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_2.png)
-![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_3.png)
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_1.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_2.png)<br>
+![images](https://github.com/yanwu-ge/Res-GCNN/tree/main/images/Complex_scenarios_3.png)<br>
 
